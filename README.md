@@ -9,6 +9,6 @@ Note:
       (You can search directly on youtube that how to play sound using C++ in Dev-C++ and follow any tutorail, it would take less tham 5 minutes.)
       (You will have to create a "project" not "source file" in Dev-C++ and goto the tab file->new->project, and select empty project and click ok then save it to preferred location and then goto tab called "project", select "project options" and pop-up will appear, select Prameters tab and then in "Linker" section paste "-lwinmm" and save it.)
       Now you can run this program with background sound in Dev-C++ IDE
-
-      Let's Connect!!
+      
+      
       LinkedIn: https://www.linkedin.com/in/hasham-younas-353084230/
