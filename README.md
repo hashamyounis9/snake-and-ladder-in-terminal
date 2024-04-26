@@ -1,6 +1,6 @@
 # Snake and Ladder Console Game
 
-![Welcome Page](gameplay_ss.jpg)
+![Welcome Page](gameplay-ss.jpg)
 
 Console version of the famous "Snake and Ladder" game developed by Hasham Younas in C++ programming language.
 
